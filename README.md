@@ -9,8 +9,6 @@ Full-stack engineer and founder of **[Art Halimi Studio](https://arthalimi.com)*
 | Project | What it is |
 | --- | --- |
 | [ZahlxV2](https://github.com/ArtHalimi7/ZahlxV2) | POS, inventory and double-entry bookkeeping for small businesses, with a Gemini AI assistant |
-| [Dasma](https://github.com/ArtHalimi7/Invitation) | Digital wedding invitations: live editor, Stripe checkout, guest RSVPs and an admin panel |
-| [Layr AI](https://github.com/ArtHalimi7/Layr-AI) | AI website builder that turns a chat about your business into a React + Tailwind site |
 | [Prospectly](https://github.com/ArtHalimi7/prospectly) | B2B lead generation: finds well-reviewed local businesses with no website, scores intent, drafts outreach |
 | [AldoDent](https://github.com/ArtHalimi7/aldodent-clinic) | Dental clinic website with online booking and a staff dashboard (Express + PostgreSQL) |
 
@@ -24,6 +22,6 @@ Full-stack engineer and founder of **[Art Halimi Studio](https://arthalimi.com)*
 
 #### Client websites
 
-[KOSIIX](https://github.com/ArtHalimi7/Kosiix) · [ARSA Gipser](https://github.com/ArtHalimi7/arsaV2) · [Che Bar](https://github.com/ArtHalimi7/Che-Bar) · [Gem Dent](https://github.com/ArtHalimi7/GemDent) · [Glow Detailing](https://github.com/ArtHalimi7/GlowDetailing)
+[KOSIIX](https://github.com/ArtHalimi7/Kosiix) · [ARSA Gipser](https://github.com/ArtHalimi7/arsaV2)
 
 **Get in touch:** [arthalimi.com](https://arthalimi.com)
