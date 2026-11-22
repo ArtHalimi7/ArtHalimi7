@@ -18,7 +18,6 @@ Full-stack engineer and founder of **[Art Halimi Studio](https://arthalimi.com)*
 
 | Project | What it is |
 | --- | --- |
-| [Backbone](https://github.com/ArtHalimi7/Backbone-web) | Scroll-driven story narrated by a real-time 3D robot built entirely in code with three.js |
 | [Launchy](https://github.com/ArtHalimi7/launchy-web) | Next.js landing page told by a real-time 3D iPhone |
 | [AIRE](https://github.com/ArtHalimi7/aire-showcase) | Scroll-told product launch concept with three.js, GSAP ScrollTrigger and Lenis |
 | [Don Xhoni](https://github.com/ArtHalimi7/DonXhoni) | Artist site with a hand-written GLSL liquid-ripple hero on OGL |
