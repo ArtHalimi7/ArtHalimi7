@@ -32,9 +32,9 @@ I run **[Art Halimi Studio](https://arthalimi.com)**, an independent software st
     <td width="50%" valign="top">
       <a href="https://tafaleka.com"><img src="assets/tafa.webp" alt="Auto TAFA website"></a>
       <p><b>Auto TAFA</b>&nbsp;&nbsp;<sub>Car dealership · Gjilan, XK</sub></p>
-      <p>Luxury car dealership with a browsable collection, car detail pages, financing and custom-sourcing requests, and an admin dashboard.</p>
-      <p><sub><code>React</code> <code>Express</code> <code>MySQL</code> <code>Cloudinary</code></sub></p>
-      <p><a href="https://tafaleka.com">Live site ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ArtHalimi7/TAFA">Code</a></p>
+      <p>Showroom for a luxury car dealership, with an admin dashboard and a pipeline that imports listings from Korea.</p>
+      <p><sub><code>React</code> <code>Express</code> <code>MySQL</code> <code>Gemini</code></sub></p>
+      <p><a href="https://tafaleka.com">Live site ↗</a></p>
     </td>
   </tr>
   <tr>
