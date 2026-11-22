@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Art Halimi, full-stack engineer and founder of Art Halimi Studio">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F2F2EE" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.38" stop-color="#0A0A0A" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#F2F2EE" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#F2F2EE" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card">
+      <path d="M0 18 Q0 0 18 0 H1146 L1200 54 V282 Q1200 300 1182 300 H18 Q0 300 0 282 Z"/>
+    </clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: Inter, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#0A0A0A"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+    <rect width="1200" height="300" fill="url(#fade)"/>
+  </g>
+  <path d="M1146 0.5 L1199.5 54" stroke="#2E2E2E" stroke-width="1"/>
+
+  <text x="64" y="86" class="mono" font-size="14" letter-spacing="3.2" fill="#9A9A96">ART HALIMI STUDIO  ·  GERMANY</text>
+  <text x="61" y="168" class="sans" font-size="74" font-weight="700" letter-spacing="-2.2" fill="#F2F2EE">Art Halimi<tspan class="cursor" fill="#F2F2EE" dx="6">_</tspan></text>
+  <text x="64" y="218" class="sans" font-size="21" fill="#C9C9C4">Full-stack engineer. Internal tools, dashboards, automation</text>
+  <text x="64" y="248" class="sans" font-size="21" fill="#C9C9C4">and websites, built around how teams actually work.</text>
+
+  <g class="mono" font-size="13" letter-spacing="2.4">
+    <g transform="translate(828 62)">
+      <path d="M0 6 Q0 0 6 0 H300 L312 12 V38 Q312 44 306 44 H6 Q0 44 0 38 Z" fill="#111111" stroke="#2E2E2E"/>
+      <text x="20" y="27" fill="#6E6E6E">01</text><text x="58" y="27" fill="#E8E8E3">INTERNAL TOOLS</text>
+    </g>
+    <g transform="translate(848 116)">
+      <path d="M0 6 Q0 0 6 0 H300 L312 12 V38 Q312 44 306 44 H6 Q0 44 0 38 Z" fill="#111111" stroke="#2E2E2E"/>
+      <text x="20" y="27" fill="#6E6E6E">02</text><text x="58" y="27" fill="#E8E8E3">DASHBOARDS</text>
+    </g>
+    <g transform="translate(828 170)">
+      <path d="M0 6 Q0 0 6 0 H300 L312 12 V38 Q312 44 306 44 H6 Q0 44 0 38 Z" fill="#111111" stroke="#2E2E2E"/>
+      <text x="20" y="27" fill="#6E6E6E">03</text><text x="58" y="27" fill="#E8E8E3">AUTOMATION</text>
+    </g>
+    <g transform="translate(848 224)">
+      <path d="M0 6 Q0 0 6 0 H300 L312 12 V38 Q312 44 306 44 H6 Q0 44 0 38 Z" fill="#F2F2EE" stroke="#F2F2EE"/>
+      <text x="20" y="27" fill="#6E6E6E">04</text><text x="58" y="27" fill="#0A0A0A">WEBSITES</text>
+    </g>
+  </g>
+</svg>
